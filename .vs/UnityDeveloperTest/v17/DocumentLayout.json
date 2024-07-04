@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6222F2-656B-9C8D-4E0C-10347C5C33CE}|Assembly-CSharp.csproj|c:\\study materials\\unityprojects\\unitydevelopertest\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6222F2-656B-9C8D-4E0C-10347C5C33CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6222F2-656B-9C8D-4E0C-10347C5C33CE}|Assembly-CSharp.csproj|C:\\study materials\\UnityProjects\\UnityDeveloperTest\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6222F2-656B-9C8D-4E0C-10347C5C33CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B23AEC6-3E55-1009-5EC5-181337A6D937}|Assembly-CSharp-Editor.csproj|C:\\study materials\\UnityProjects\\UnityDeveloperTest\\assets\\editor\\obstacleeditortool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B23AEC6-3E55-1009-5EC5-181337A6D937}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\obstacleeditortool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6222F2-656B-9C8D-4E0C-10347C5C33CE}|Assembly-CSharp.csproj|C:\\study materials\\UnityProjects\\UnityDeveloperTest\\assets\\scripts\\raycastmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6222F2-656B-9C8D-4E0C-10347C5C33CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycastmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6222F2-656B-9C8D-4E0C-10347C5C33CE}|Assembly-CSharp.csproj|C:\\study materials\\UnityProjects\\UnityDeveloperTest\\assets\\scripts\\tileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6222F2-656B-9C8D-4E0C-10347C5C33CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6222F2-656B-9C8D-4E0C-10347C5C33CE}|Assembly-CSharp.csproj|C:\\study materials\\UnityProjects\\UnityDeveloperTest\\assets\\scripts\\interfaceai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6222F2-656B-9C8D-4E0C-10347C5C33CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaceai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6222F2-656B-9C8D-4E0C-10347C5C33CE}|Assembly-CSharp.csproj|C:\\study materials\\UnityProjects\\UnityDeveloperTest\\assets\\scripts\\gridgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6222F2-656B-9C8D-4E0C-10347C5C33CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6222F2-656B-9C8D-4E0C-10347C5C33CE}|Assembly-CSharp.csproj|C:\\study materials\\UnityProjects\\UnityDeveloperTest\\assets\\scripts\\obstacledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6222F2-656B-9C8D-4E0C-10347C5C33CE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstacledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GridGenerator.cs",
+              "DocumentMoniker": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\Assets\\Scripts\\GridGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridGenerator.cs",
+              "ToolTip": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\Assets\\Scripts\\GridGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:43:42.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ObstacleData.cs",
+              "DocumentMoniker": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\Assets\\Scripts\\ObstacleData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleData.cs",
+              "ToolTip": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\Assets\\Scripts\\ObstacleData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObstacleData.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T10:08:44.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwFYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T09:53:58.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterfaceAI.cs",
+              "DocumentMoniker": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\Assets\\Scripts\\InterfaceAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InterfaceAI.cs",
+              "ToolTip": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\Assets\\Scripts\\InterfaceAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InterfaceAI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T09:53:53.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T09:53:53.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObstacleEditorTool.cs",
+              "DocumentMoniker": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\Assets\\Editor\\ObstacleEditorTool.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\ObstacleEditorTool.cs",
+              "ToolTip": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\Assets\\Editor\\ObstacleEditorTool.cs",
+              "RelativeToolTip": "Assets\\Editor\\ObstacleEditorTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T07:30:51.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RaycastManager.cs",
+              "DocumentMoniker": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\Assets\\Scripts\\RaycastManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RaycastManager.cs",
+              "ToolTip": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\Assets\\Scripts\\RaycastManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RaycastManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T07:20:55.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TileInfo.cs",
+              "DocumentMoniker": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\Assets\\Scripts\\TileInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TileInfo.cs",
+              "ToolTip": "C:\\study materials\\UnityProjects\\UnityDeveloperTest\\Assets\\Scripts\\TileInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TileInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T07:20:55.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
